@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T10:56:22 IST" name="Default suite" finished-at="2022-10-21T10:56:23 IST" duration-ms="314">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T10:56:22 IST" name="Default test" finished-at="2022-10-21T10:56:23 IST" duration-ms="314">
+      <class name="DataProviderTestNG.Excelfilez">
+        <test-method signature="testcaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProviderTestNG.Excelfilez@3514a4c0]" started-at="2022-10-21T10:56:23 IST" name="testcaseData" data-provider="xlfile" finished-at="2022-10-21T10:56:23 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sms]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseData -->
+        <test-method signature="testcaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProviderTestNG.Excelfilez@3514a4c0]" started-at="2022-10-21T10:56:23 IST" name="testcaseData" data-provider="xlfile" finished-at="2022-10-21T10:56:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseData -->
+        <test-method signature="testcaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataProviderTestNG.Excelfilez@3514a4c0]" started-at="2022-10-21T10:56:23 IST" name="testcaseData" data-provider="xlfile" finished-at="2022-10-21T10:56:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[morning]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[call]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseData -->
+      </class> <!-- DataProviderTestNG.Excelfilez -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
